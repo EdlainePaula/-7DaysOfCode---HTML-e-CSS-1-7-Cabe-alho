@@ -110,3 +110,40 @@
     max-width: 100%;
 }
 
+.vagas{
+    display: flex;
+    margin-left: 28%;
+    margin-bottom: 32px;
+    gap:32px;
+    flex-direction: column;
+    width: 90%;
+}
+
+.area-vaga{
+    margin-top: 32px;
+    font-size: 20px;
+    font-family: var(--fonte);
+    font-weight: 700;
+    align-items: flex-start;
+}
+
+.titulo-vaga{
+    font-size: 18px;
+    font-family: var(--fonte);
+    margin-bottom: 20px;
+}
+
+.bloco-vaga{
+    padding: 1.5em;
+    gap:10px;
+    border-radius: 16px;
+    border: .5px solid rgba(0, 0.1, 0.1, 0.1);
+    width: 50%;
+    
+}
+
+.informacao-vaga{
+    color: var(--cor-textos);
+    font-size: 16px;
+   
+}
