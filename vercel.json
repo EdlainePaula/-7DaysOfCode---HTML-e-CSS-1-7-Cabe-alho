@@ -1,5 +1,5 @@
 {
     "rewrites": [
-      { "source": "/(.*)", "destination": "setimoDia/Index.html" }
+      { "source": "/(.*)", "destination": "/" }
     ]
 }
