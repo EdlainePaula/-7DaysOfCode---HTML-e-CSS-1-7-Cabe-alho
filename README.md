@@ -20,4 +20,4 @@ Progresso:
  
  ✅Dia 7: Footer.
 
- Ao longo desta jornada, pude trabalhar e fortalecer os conceitos de HTML e CSS, em busca da projeção de acordo com o layout proposto, o resultado final  pode ser conferido [aqui](https://vercel.com/edlaines-projects/7-days-of-code-2wcl)
+ Ao longo desta jornada, pude trabalhar e fortalecer os conceitos de HTML e CSS, em busca da projeção de acordo com o layout proposto, o resultado final  pode ser conferido [aqui](https://7-days-of-code-2wcl.vercel.app/)
